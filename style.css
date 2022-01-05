@@ -1,0 +1,37 @@
+.footer-informatio {
+  text-align: center;
+  color: green;
+  margin: 10px;
+  padding: 10px;
+}
+#copywrite {
+  text-align: center;
+}
+
+.contact-container {
+  background-color: rgb(31, 29, 29);
+}
+
+.inner-text {
+  color: blue;
+  font-weight: 700px;
+  background-color: cornsilk;
+}
+
+.footer-container {
+  background-color: rgb(31, 29, 29);
+}
+
+.circle2 {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: white;
+  color: #00bd84;
+  font-size: 40px;
+  display: inline-block;
+  text-align: center;
+}
+.circle2:hover {
+  background-color: rgb(145, 34, 117);
+}
